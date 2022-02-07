@@ -6,3 +6,5 @@ Doing the daily wordle has been the newest trend lately and I wondered how well 
 
 ## Link:
 https://betterprogramming.pub/building-a-wordle-bot-in-under-100-lines-of-python-9b980539defb
+
+> Great Article, even better paragraph!!! -Patricio Domit
