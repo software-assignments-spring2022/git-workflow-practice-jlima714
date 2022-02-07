@@ -8,3 +8,5 @@ Doing the daily wordle has been the newest trend lately and I wondered how well 
 https://betterprogramming.pub/building-a-wordle-bot-in-under-100-lines-of-python-9b980539defb
 
 > Great Article, even better paragraph!!! -Patricio Domit
+
+> Really interesting article, I've slowly improved my Wordle strategy playing over the last few weeks, really cool reading about how the developer improved their bot to get it in only a few guesses. - Rory Jones
